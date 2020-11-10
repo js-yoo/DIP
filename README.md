@@ -1,4 +1,3 @@
-# Python_basic
+# Digital Image Processing
 
-The codes in this repository are the codes practiced in Yeungnam University's liberal arts lecture 
-"Computing Thinking and Python Programming-Prof. Young-Tak Kim".
+The codes in this repository are the codes practiced in "Digital Image Processing-Prof. Sungho Kim", a lecture in the Department of Electronics Engineering at Yeungnam University.
