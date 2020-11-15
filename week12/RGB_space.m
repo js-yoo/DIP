@@ -1,3 +1,4 @@
+%% jsyoo
 I=imread('color.png');
 fig1=figure(1); fig1.set('color','w'); % Figure 1의 배경을 하얀색으로 정하기
 subplot(2,3,1); imshow(I); title('RGB input image');
